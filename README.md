@@ -8,7 +8,9 @@ Easily convert your raw college schedule from BAAK into a readable format for Go
 - **Quick and easy Google Calendar import**
 
 ## Installation
-
+### Executable
+You can get the executable [here](https://github.com/TheXploler/UG2GCal/releases)
+### Source
 1. Clone the repository:
    ```bash
    git clone https://github.com/TheXploler/UG2GCal.git
