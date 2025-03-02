@@ -1,4 +1,4 @@
-# UG2Gcal
+# UG2GCal
 
 Easily convert your raw college schedule from BAAK into a readable format for Google Calendar! This tool takes in your copied schedule from BAAK or a `.txt` file and transforms it into a `.csv` file that can be imported into Google Calendar. Please note that you have to set reoccurring schedule manually since .csv files can't do reoccurring schedule
 
